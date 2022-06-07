@@ -11,15 +11,17 @@ Full Android Hack Malware
 
 ## Features
 
-- Real time
-- receive all target message
-- send sms with target phone to any number
-- recive all target contacts
-- receive list of all installedd apps in target device
-- receive any file or folder from target device
-- delete any file or folder from target device
-- receive last clipboard text
-- easy deploy and free host
+- 🔴 Real time
+- ✉️ receive all target message
+- ✉️ send sms with target device to any number
+- ✉️ recive all target contacts
+- 💻 receive list of all installedd apps in target device
+- 📁 receive any file or folder from target device
+- 📁 delete any file or folder from target device
+- 📷 capture main and front camera
+- 🎙 capture microphone
+- 📋 receive last clipboard text
+- ✅️ auto start after device boot
 
 
 ## How it works ?
