@@ -22,6 +22,7 @@ Full Android Hack Malware
 - 🎙 capture microphone
 - 📋 receive last clipboard text
 - ✅️ auto start after device boot
+- 🤖 Undetectable by antivirus
 
 
 ## How it works ?
