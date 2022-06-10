@@ -34,7 +34,7 @@ then you have full controll of target phone and you can manage it in telegram bo
 
 ## How to use ?
 
-to get file and deployment cheack our telegram channel : [TELEGRAM CHANNEL](https://t.me/HackDagger)
+to get file and deployment check our telegram channel : [TELEGRAM CHANNEL](https://t.me/HackDagger)
 
 
 
