@@ -12,6 +12,7 @@ Full Android Hack Malware
 ## Features
 
 - 🔴 Real time
+- 🌐 custom web view
 - ✉️ receive all target message
 - ✉️ send sms with target device to any number
 - ✉️ recive all target contacts
